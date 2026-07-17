@@ -38,14 +38,16 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-<img src="./assets/about-me-card.svg" width="100%" alt="About Me" />
-</div>
 
-- 🔭 Passionate about **Full Stack Development**, **AI/ML**, and **Computer Vision**
-- 🌱 Continuously learning new technologies to sharpen my development skills
-- 💡 I love turning ideas into real, working software
-- 📫 Reach me at **aazhan98@gmail.com**
-- ⚡ Fun fact: I build things that see, hear, and understand — one project at a time
+🎓 **Software Engineering Student** @ Nazeer Hussain University, Pakistan 🇵🇰
+🚀 Passionate about **Full Stack Development**, **AI/ML**, and **Computer Vision**
+🌱 Continuously learning new technologies to sharpen my development skills
+💡 I love turning ideas into real, working software
+🔎 Currently focused on **production-ready full stack apps**, **local LLMs**, and **computer vision fundamentals**
+🤝 Open to **Internships**, **Freelance Work**, **Collaborations**, and **Open Source Contributions**
+📫 Reach me at **aazhan98@gmail.com**
+
+</div>
 
 <br/>
 
@@ -185,7 +187,7 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
 
 <br/>
 
