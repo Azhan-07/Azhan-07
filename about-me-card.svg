@@ -1,0 +1,85 @@
+<svg width="680" height="536" viewBox="0 0 680 536" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+  <rect x="1" y="1" width="678" height="534" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <!-- header bar -->
+  <rect x="1" y="1" width="678" height="46" rx="12" fill="#161B22"/>
+  <rect x="1" y="35" width="678" height="12" fill="#161B22"/>
+  <line x1="1" y1="47" x2="679" y2="47" stroke="#30363D" stroke-width="1"/>
+
+  <circle cx="30" cy="24" r="6" fill="#FF5F56"/>
+  <circle cx="52" cy="24" r="6" fill="#FFBD2E"/>
+  <circle cx="74" cy="24" r="6" fill="#27C93F"/>
+
+  <text x="340" y="29" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#8B949E">about-me.ts</text>
+
+  <!-- code body -->
+  <text x="32" y="88" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#FF7B72">const </tspan><tspan fill="#79C0FF">azhanAbdullah</tspan><tspan fill="#C9D1D9"> = {</tspan>
+  </text>
+
+  <text x="32" y="114" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    </tspan><tspan fill="#79C0FF">role</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#A5D6FF">"Software Engineering Student"</tspan><tspan fill="#C9D1D9">,</tspan>
+  </text>
+
+  <text x="32" y="140" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    </tspan><tspan fill="#79C0FF">university</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#A5D6FF">"Nazeer Hussain University"</tspan><tspan fill="#C9D1D9">,</tspan>
+  </text>
+
+  <text x="32" y="166" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    </tspan><tspan fill="#79C0FF">location</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#A5D6FF">"Pakistan 🇵🇰"</tspan><tspan fill="#C9D1D9">,</tspan>
+  </text>
+
+  <text x="32" y="192" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    </tspan><tspan fill="#79C0FF">interests</tspan><tspan fill="#C9D1D9">: [</tspan>
+  </text>
+
+  <text x="32" y="218" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">        </tspan><tspan fill="#A5D6FF">"Full Stack Dev"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"AI"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"ML"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"Computer Vision"</tspan>
+  </text>
+
+  <text x="32" y="244" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    ],</tspan>
+  </text>
+
+  <text x="32" y="270" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    </tspan><tspan fill="#79C0FF">currentFocus</tspan><tspan fill="#C9D1D9">: [</tspan>
+  </text>
+
+  <text x="32" y="296" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">        </tspan><tspan fill="#A5D6FF">"Building production-ready full stack apps"</tspan><tspan fill="#C9D1D9">,</tspan>
+  </text>
+
+  <text x="32" y="322" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">        </tspan><tspan fill="#A5D6FF">"Exploring Local LLMs &amp; AI-powered tools"</tspan><tspan fill="#C9D1D9">,</tspan>
+  </text>
+
+  <text x="32" y="348" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">        </tspan><tspan fill="#A5D6FF">"Strengthening Computer Vision fundamentals"</tspan>
+  </text>
+
+  <text x="32" y="374" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    ],</tspan>
+  </text>
+
+  <text x="32" y="400" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    </tspan><tspan fill="#79C0FF">lookingFor</tspan><tspan fill="#C9D1D9">: [</tspan>
+  </text>
+
+  <text x="32" y="426" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">        </tspan><tspan fill="#A5D6FF">"Internships"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"Freelance"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"Collaborations"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#A5D6FF">"OSS"</tspan>
+  </text>
+
+  <text x="32" y="452" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    ],</tspan>
+  </text>
+
+  <text x="32" y="478" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">    </tspan><tspan fill="#79C0FF">funFact</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#A5D6FF">"I enjoy solving real-world problems 🚀"</tspan>
+  </text>
+
+  <text x="32" y="504" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+    <tspan fill="#C9D1D9">};</tspan>
+  </text>
+
+  <rect x="16" y="524" width="648" height="6" rx="3" fill="#58A6FF" opacity="0.85"/>
+</svg>
