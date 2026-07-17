@@ -10,14 +10,17 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhan-07)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Azhan-07)
   
-  <!-- Stats -->
+  <br>
+  
   <img src="https://komarev.com/ghpvc/?username=Azhan-07&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Azhan-07?style=flat-square&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Azhan-07?style=flat-square&color=yellow" alt="Stars" />
   
 </div>
 
-<!-- Text Animation - CSS based -->
+<br>
+
+<!-- Text Animation -->
 <div align="center">
   <h2>
     <span>👋 Hi there, I'm Azhan</span><br>
@@ -40,20 +43,45 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="50%">
-        🎓 <strong>Software Engineering Student</strong> @ Nazeer Hussain University<br>
-        🇵🇰 Based in Pakistan<br><br>
-        🚀 <strong>Passionate about:</strong><br>
-        • Full Stack Development<br>
-        • AI/ML & Computer Vision<br>
-        • Building Production-Ready Apps<br><br>
-        💡 <strong>Currently:</strong><br>
-        • Learning Advanced CV & LLMs<br>
-        • Open to Internships & Collaborations<br><br>
-        📫 <strong>Reach me at:</strong> <a href="mailto:aazhan98@gmail.com">aazhan98@gmail.com</a>
+      <td align="left" width="60%">
+        <strong>🎓 Software Engineering Student</strong> @ Nazeer Hussain University<br>
+        <strong>📍 Based in Pakistan</strong><br><br>
+        
+        <strong>🚀 Passionate about:</strong><br>
+        &nbsp;&nbsp;• Full Stack Development<br>
+        &nbsp;&nbsp;• AI/ML & Computer Vision<br>
+        &nbsp;&nbsp;• Building Production-Ready Apps<br><br>
+        
+        <strong>💡 Currently:</strong><br>
+        &nbsp;&nbsp;• Learning Advanced CV & LLMs<br>
+        &nbsp;&nbsp;• Open to Internships & Collaborations<br><br>
+        
+        <strong>📫 Reach me at:</strong> <a href="mailto:aazhan98@gmail.com">aazhan98@gmail.com</a>
       </td>
-      <td width="50%">
+      <td width="40%">
         <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide=issues&count_private=true&include_all_commits=true" width="100%"/>
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Activity Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📊 140</h3>
+        <p>Total Contributions<br><small>Mar 26, 2025 - Present</small></p>
+      </td>
+      <td align="center">
+        <h3>⚡ 2</h3>
+        <p>Current Streak<br><small>Jul 17 - Jul 18</small></p>
+      </td>
+      <td align="center">
+        <h3>🔥 9</h3>
+        <p>Longest Streak<br><small>Apr 15, 2025 - Apr 23, 2025</small></p>
       </td>
     </tr>
   </table>
@@ -72,23 +100,22 @@
 <div align="center">
   
   ### 💻 Languages
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql" />
   
   ### 🎨 Frontend
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
   
   ### ⚙️ Backend & Databases
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
   
   ### 🤖 AI & Computer Vision
-  <img src="https://skillicons.dev/icons?i=opencv&perline=1" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Local_LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
   
   ### 🚀 Deployment & Tools
-  <img src="https://skillicons.dev/icons?i=render,netlify,vercel,git,github,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=render,netlify,vercel,git,github,vscode,figma" />
   
 </div>
 
@@ -105,7 +132,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top" style="padding: 20px;">
+      <td width="50%" valign="top" style="padding: 20px; border: 1px solid #58A6FF; border-radius: 10px;">
         <h3>🎬 Grabify</h3>
         <p>Modern video downloader supporting Instagram, Facebook, YouTube & TikTok</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -115,7 +142,7 @@
         <a href="https://grabify-g66i.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" /></a>
         <a href="https://github.com/Azhan-07/grabify"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </td>
-      <td width="50%" valign="top" style="padding: 20px;">
+      <td width="50%" valign="top" style="padding: 20px; border: 1px solid #58A6FF; border-radius: 10px;">
         <h3>✋ AI Air Canvas</h3>
         <p>Draw in the air using real-time hand gesture recognition with CV</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -139,14 +166,10 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%" /></td>
-      <td><img src="https://streak-stats.demolab.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
   
-  <br>
+  <br><br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhan-07&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="50%" />
   
@@ -157,7 +180,6 @@
   <br><br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhan-07&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true&area=true&area_color=58A6FF" width="100%" />
-  
 </div>
 
 <!-- Divider -->
@@ -203,7 +225,7 @@
   </a>
 </div>
 
-<!-- Quote Section -->
+<!-- Quote -->
 <div align="center">
   <br>
   <blockquote style="border-left: 4px solid #58A6FF; padding-left: 20px; margin: 20px 0; font-style: italic;">
