@@ -43,12 +43,12 @@
         <strong>🎓 Software Engineering Student</strong> @ Nazeer Hussain University<br>
         <strong>📍 Based in Pakistan</strong><br><br>
         
-        <strong>💻 Passionate about:</strong><br>
+        <strong>📚 Passionate about:</strong><br>
         &nbsp;&nbsp; - Full Stack Development<br>
         &nbsp;&nbsp; - AI/ML & Computer Vision<br>
         &nbsp;&nbsp; - Building Production-Ready Apps<br><br>
         
-        <strong>💻 Currently:</strong><br>
+        <strong>📚 Currently:</strong><br>
         &nbsp;&nbsp; - Learning Advanced CV & LLMs<br>
         &nbsp;&nbsp; - Open to Internships & Collaborations<br><br>
         
