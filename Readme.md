@@ -37,21 +37,9 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const azhanAbdullah = {
-    role: "Software Engineering Student",
-    university: "Nazeer Hussain University",
-    location: "Pakistan 🇵🇰",
-    interests: ["Full Stack Development", "Artificial Intelligence", "Machine Learning", "Computer Vision"],
-    currentFocus: [
-        "Building production-ready full stack applications",
-        "Exploring Local LLMs & AI-powered tools",
-        "Strengthening Computer Vision fundamentals"
-    ],
-    lookingFor: ["Internships", "Freelance Opportunities", "Collaborations", "Open Source Contributions"],
-    funFact: "I enjoy solving real-world problems through code 🚀"
-};
-```
+<div align="center">
+<img src="./assets/about-me-card.svg" width="100%" alt="About Me" />
+</div>
 
 - 🔭 Passionate about **Full Stack Development**, **AI/ML**, and **Computer Vision**
 - 🌱 Continuously learning new technologies to sharpen my development skills
