@@ -29,6 +29,12 @@
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+</div>
+
+<br/>
+
 ## 🧑‍💻 About Me
 
 ```typescript
@@ -52,6 +58,12 @@ const azhanAbdullah = {
 - 💡 I love turning ideas into real, working software
 - 📫 Reach me at **aazhan98@gmail.com**
 - ⚡ Fun fact: I build things that see, hear, and understand — one project at a time
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+</div>
 
 <br/>
 
@@ -102,6 +114,12 @@ const azhanAbdullah = {
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
@@ -168,6 +186,12 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+</div>
+
+<br/>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -193,23 +217,27 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 
 <br/>
 
-## 📌 GitHub Metrics
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Azhan-07/Azhan-07/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
 </div>
-
-> Metrics image is generated automatically via the [`lowlighter/metrics`](https://github.com/lowlighter/metrics) GitHub Action, which writes `github-metrics.svg` to this repository on a schedule.
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🌱 Currently Exploring
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Azhan-07/Azhan-07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+
+<img src="https://img.shields.io/badge/Local%20LLMs%20%26%20Ollama-58A6FF?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced%20Computer%20Vision-58A6FF?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack%20System%20Design-58A6FF?style=for-the-badge&logo=react&logoColor=white" />
+
 </div>
 
-> Snake animation is generated automatically via the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action, which writes to the `output` branch of this repository on a schedule.
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+</div>
 
 <br/>
 
@@ -239,8 +267,12 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <sub>⭐ Thanks for stopping by — let's build something great together!</sub>
+
+**⭐ Thanks for stopping by — let's build something great together!**
+
+<sub>Made with ❤️ by Azhan Abdullah</sub>
+
 </div>
