@@ -24,13 +24,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Azhan+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+Computer+Vision+Enthusiast;Building+modern+web+apps+%26+intelligent+systems;Currently+open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi+there%2C+I'm+Azhan+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+CV+Enthusiast;Building+modern+web+apps+%26+intelligent+systems;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
@@ -40,11 +40,17 @@
 <div align="center">
 
 🎓 **Software Engineering Student** @ Nazeer Hussain University, Pakistan 🇵🇰
+<br/>
 🚀 Passionate about **Full Stack Development**, **AI/ML**, and **Computer Vision**
+<br/>
 🌱 Continuously learning new technologies to sharpen my development skills
+<br/>
 💡 I love turning ideas into real, working software
+<br/>
 🔎 Currently focused on **production-ready full stack apps**, **local LLMs**, and **computer vision fundamentals**
+<br/>
 🤝 Open to **Internships**, **Freelance Work**, **Collaborations**, and **Open Source Contributions**
+<br/>
 📫 Reach me at **aazhan98@gmail.com**
 
 </div>
@@ -52,7 +58,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
@@ -109,7 +115,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
@@ -177,7 +183,7 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
@@ -186,7 +192,7 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
 
 <br/>
@@ -208,7 +214,7 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
@@ -226,7 +232,7 @@ A **Computer Vision** project that lets users draw in the air using real-time ha
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=100%25" width="100%"/>
 </div>
 
 <br/>
