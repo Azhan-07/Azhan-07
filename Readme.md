@@ -43,14 +43,14 @@
         <strong>🎓 Software Engineering Student</strong> @ Nazeer Hussain University<br>
         <strong>📍 Based in Pakistan</strong><br><br>
         
-        <strong>💡 Passionate about:</strong><br>
-        &nbsp;&nbsp;· Full Stack Development<br>
-        &nbsp;&nbsp;· AI/ML & Computer Vision<br>
-        &nbsp;&nbsp;· Building Production-Ready Apps<br><br>
+        <strong>💻 Passionate about:</strong><br>
+        &nbsp;&nbsp; - Full Stack Development<br>
+        &nbsp;&nbsp; - AI/ML & Computer Vision<br>
+        &nbsp;&nbsp; - Building Production-Ready Apps<br><br>
         
-        <strong>💡 Currently:</strong><br>
-        &nbsp;&nbsp;· Learning Advanced CV & LLMs<br>
-        &nbsp;&nbsp;· Open to Internships & Collaborations<br><br>
+        <strong>💻 Currently:</strong><br>
+        &nbsp;&nbsp; - Learning Advanced CV & LLMs<br>
+        &nbsp;&nbsp; - Open to Internships & Collaborations<br><br>
         
         <strong>📫 Reach me at:</strong> <a href="mailto:aazhan98@gmail.com">aazhan98@gmail.com</a>
       </td>
@@ -206,9 +206,7 @@
 <!-- Quote -->
 <div align="center">
   <br>
-  <blockquote style="border-left: 4px solid #58A6FF; padding-left: 20px; margin: 20px 0; font-style: italic;">
-    <h3>💬 "First, solve the problem. Then, write the code." — John Johnson</h3>
-  </blockquote>
+  <h3>💬 "First, solve the problem. Then, write the code." — John Johnson</h3>
 </div>
 
 <!-- Footer -->
