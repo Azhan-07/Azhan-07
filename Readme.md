@@ -12,15 +12,14 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=Azhan-07&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Azhan-07?style=flat-square&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Azhan-07?style=flat-square&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Azhan-07&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Azhan-07?style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/Azhan-07?style=flat-square&color=yellow" />
   
 </div>
 
 <br>
 
-<!-- Text Animation -->
 <div align="center">
   <h2>
     <span>👋 Hi there, I'm Azhan</span><br>
@@ -30,12 +29,9 @@
   </h2>
 </div>
 
-<!-- Divider -->
-<div align="center">
-  <hr width="80%" style="border: 1px solid #58A6FF; opacity: 0.3;">
-</div>
+---
 
-<!-- About Me Section -->
+<!-- About Me -->
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
 </div>
@@ -47,14 +43,14 @@
         <strong>🎓 Software Engineering Student</strong> @ Nazeer Hussain University<br>
         <strong>📍 Based in Pakistan</strong><br><br>
         
-        <strong>🚀 Passionate about:</strong><br>
-        &nbsp;&nbsp;• Full Stack Development<br>
-        &nbsp;&nbsp;• AI/ML & Computer Vision<br>
-        &nbsp;&nbsp;• Building Production-Ready Apps<br><br>
+        <strong>💡 Passionate about:</strong><br>
+        &nbsp;&nbsp;· Full Stack Development<br>
+        &nbsp;&nbsp;· AI/ML & Computer Vision<br>
+        &nbsp;&nbsp;· Building Production-Ready Apps<br><br>
         
         <strong>💡 Currently:</strong><br>
-        &nbsp;&nbsp;• Learning Advanced CV & LLMs<br>
-        &nbsp;&nbsp;• Open to Internships & Collaborations<br><br>
+        &nbsp;&nbsp;· Learning Advanced CV & LLMs<br>
+        &nbsp;&nbsp;· Open to Internships & Collaborations<br><br>
         
         <strong>📫 Reach me at:</strong> <a href="mailto:aazhan98@gmail.com">aazhan98@gmail.com</a>
       </td>
@@ -87,10 +83,7 @@
   </table>
 </div>
 
-<!-- Divider -->
-<div align="center">
-  <hr width="80%" style="border: 1px solid #58A6FF; opacity: 0.3;">
-</div>
+---
 
 <!-- Tech Stack -->
 <div align="center">
@@ -119,10 +112,7 @@
   
 </div>
 
-<!-- Divider -->
-<div align="center">
-  <hr width="80%" style="border: 1px solid #58A6FF; opacity: 0.3;">
-</div>
+---
 
 <!-- Featured Projects -->
 <div align="center">
@@ -155,10 +145,7 @@
   </table>
 </div>
 
-<!-- Divider -->
-<div align="center">
-  <hr width="80%" style="border: 1px solid #58A6FF; opacity: 0.3;">
-</div>
+---
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -182,10 +169,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhan-07&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true&area=true&area_color=58A6FF" width="100%" />
 </div>
 
-<!-- Divider -->
-<div align="center">
-  <hr width="80%" style="border: 1px solid #58A6FF; opacity: 0.3;">
-</div>
+---
 
 <!-- Currently Exploring -->
 <div align="center">
@@ -200,12 +184,9 @@
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<!-- Divider -->
-<div align="center">
-  <hr width="80%" style="border: 1px solid #58A6FF; opacity: 0.3;">
-</div>
+---
 
-<!-- Connect Section -->
+<!-- Connect -->
 <div align="center">
   <h2>🤝 Let's Connect</h2>
 </div>
@@ -219,9 +200,6 @@
   </a>
   <a href="https://github.com/Azhan-07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
