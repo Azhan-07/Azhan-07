@@ -41,12 +41,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=Azhan-07&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhan-07&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
