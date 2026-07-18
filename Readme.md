@@ -18,139 +18,123 @@
 
 <br>
 
-<div align="center">
-  <h2>
-    👋 Hi there, I'm Azhan<br>
-    <span style="color: #58A6FF;">Full Stack Developer | AI & CV Enthusiast</span>
-  </h2>
-</div>
+<h2 align="center">👋 Hi there, I'm Azhan</h2>
+<h3 align="center" style="color: #58A6FF;">Full Stack Developer | AI & CV Enthusiast</h3>
 
 ---
 
-### 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="55%">
-        <strong>🎓 Software Engineering Student</strong> @ Nazeer Hussain University<br>
-        <strong>📍 Based in Pakistan</strong><br><br>
-        
-        <strong>💻 Passionate about:</strong><br>
-        • Full Stack Development<br>
-        • AI/ML & Computer Vision<br>
-        • Building Production-Ready Apps<br><br>
-        
-        <strong>📚 Currently:</strong><br>
-        • Learning Advanced CV & LLMs<br>
-        • Open to Internships & Collaborations<br><br>
-        
-        <strong>📫 Reach me at:</strong> <a href="mailto:aazhan98@gmail.com">aazhan98@gmail.com</a>
-      </td>
-      <td width="45%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide=issues&count_private=true&include_all_commits=true" width="100%"/>
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### 📊 Activity Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h2>📊 140</h2>
-        <p>Total Contributions<br><small>Mar 26, 2025 - Present</small></p>
-      </td>
-      <td align="center" width="33%">
-        <h2>⚡ 2</h2>
-        <p>Current Streak<br><small>Jul 17 - Jul 18</small></p>
-      </td>
-      <td align="center" width="33%">
-        <h2>🔥 9</h2>
-        <p>Longest Streak<br><small>Apr 15, 2025 - Apr 23, 2025</small></p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="55%">
+      <p><strong>🎓 Software Engineering Student</strong> @ Nazeer Hussain University</p>
+      <p><strong>📍 Based in Pakistan</strong></p>
+      
+      <p><strong>💻 Passionate about:</strong></p>
+      <ul>
+        <li>Full Stack Development</li>
+        <li>AI/ML & Computer Vision</li>
+        <li>Building Production-Ready Apps</li>
+      </ul>
+      
+      <p><strong>📚 Currently:</strong></p>
+      <ul>
+        <li>Learning Advanced CV & LLMs</li>
+        <li>Open to Internships & Collaborations</li>
+      </ul>
+      
+      <p><strong>📫 Reach me at:</strong> <a href="mailto:aazhan98@gmail.com">aazhan98@gmail.com</a></p>
+    </td>
+    <td width="45%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide=issues&count_private=true&include_all_commits=true" width="100%"/>
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">📊 Activity Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h2>📊 140</h2>
+      <p>Total Contributions</p>
+      <small>Mar 26, 2025 - Present</small>
+    </td>
+    <td align="center" width="33%">
+      <h2>⚡ 2</h2>
+      <p>Current Streak</p>
+      <small>Jul 17 - Jul 18</small>
+    </td>
+    <td align="center" width="33%">
+      <h2>🔥 9</h2>
+      <p>Longest Streak</p>
+      <small>Apr 15, 2025 - Apr 23, 2025</small>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   
-  **Languages**
-  
+  <h3>💻 Languages</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql" />
   
-  <br><br>
-  
-  **Frontend**
-  
+  <h3>🎨 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
   
-  <br><br>
-  
-  **Backend & Databases**
-  
+  <h3>⚙️ Backend & Databases</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
   
-  <br><br>
-  
-  **AI & Computer Vision**
-  
+  <h3>🤖 AI & Computer Vision</h3>
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Local_LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" />
   
-  <br><br>
-  
-  **Deployment & Tools**
-  
+  <h3>🚀 Deployment & Tools</h3>
   <img src="https://skillicons.dev/icons?i=render,netlify,vercel,git,github,vscode,figma" />
   
 </div>
 
 ---
 
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top" style="padding: 20px; border: 1px solid #58A6FF; border-radius: 10px;">
-        <h3>🎬 Grabify</h3>
-        <p>Modern video downloader supporting Instagram, Facebook, YouTube & TikTok</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <br><br>
-        <a href="https://grabify-g66i.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" /></a>
-        <a href="https://github.com/Azhan-07/grabify"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </td>
-      <td width="50%" valign="top" style="padding: 20px; border: 1px solid #58A6FF; border-radius: 10px;">
-        <h3>✋ AI Air Canvas</h3>
-        <p>Draw in the air using real-time hand gesture recognition with CV</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
-        <br><br>
-        <a href="https://github.com/Azhan-07/AI-Air-Canvas-Using-Hand-Gesture-Recognition"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #58A6FF; border-radius: 10px;">
+      <h3>🎬 Grabify</h3>
+      <p>Modern video downloader for Instagram, Facebook, YouTube & TikTok</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <br><br>
+      <a href="https://grabify-g66i.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+      <a href="https://github.com/Azhan-07/grabify"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #58A6FF; border-radius: 10px;">
+      <h3>✋ AI Air Canvas</h3>
+      <p>Draw in the air using real-time hand gesture recognition</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/Azhan-07/AI-Air-Canvas-Using-Hand-Gesture-Recognition"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
@@ -171,7 +155,7 @@
 
 ---
 
-### 🌱 Currently Exploring
+<h2 align="center">🌱 Currently Exploring</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Local_LLMs_&_Ollama-412991?style=for-the-badge&logo=ollama&logoColor=white" />
@@ -183,7 +167,7 @@
 
 ---
 
-### 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/azhan-abdullah-382296366">
@@ -199,9 +183,7 @@
 
 <br>
 
-<div align="center">
-  <h3>💬 "First, solve the problem. Then, write the code." — John Johnson</h3>
-</div>
+<h3 align="center">💬 "First, solve the problem. Then, write the code." — John Johnson</h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
