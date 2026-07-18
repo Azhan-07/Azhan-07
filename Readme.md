@@ -2,13 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Azhan%20Abdullah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
-<!-- Social Badges -->
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhan-abdullah-382296366)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aazhan98@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhan-07)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Azhan-07)
   
   <br>
   
@@ -22,39 +20,34 @@
 
 <div align="center">
   <h2>
-    <span>👋 Hi there, I'm Azhan</span><br>
-    <span style="color: #58A6FF;">Full Stack Developer</span><br>
-    <span style="color: #58A6FF;">AI & CV Enthusiast</span><br>
-    <span style="color: #58A6FF;">Building the Future of Tech</span>
+    👋 Hi there, I'm Azhan<br>
+    <span style="color: #58A6FF;">Full Stack Developer | AI & CV Enthusiast</span>
   </h2>
 </div>
 
 ---
 
-<!-- About Me -->
-<div align="center">
-  <h2>🧑‍💻 About Me</h2>
-</div>
+### 🧑‍💻 About Me
 
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="60%">
+      <td align="left" width="55%">
         <strong>🎓 Software Engineering Student</strong> @ Nazeer Hussain University<br>
         <strong>📍 Based in Pakistan</strong><br><br>
         
-        <strong>📚 Passionate about:</strong><br>
-        &nbsp;&nbsp; - Full Stack Development<br>
-        &nbsp;&nbsp; - AI/ML & Computer Vision<br>
-        &nbsp;&nbsp; - Building Production-Ready Apps<br><br>
+        <strong>💻 Passionate about:</strong><br>
+        • Full Stack Development<br>
+        • AI/ML & Computer Vision<br>
+        • Building Production-Ready Apps<br><br>
         
         <strong>📚 Currently:</strong><br>
-        &nbsp;&nbsp; - Learning Advanced CV & LLMs<br>
-        &nbsp;&nbsp; - Open to Internships & Collaborations<br><br>
+        • Learning Advanced CV & LLMs<br>
+        • Open to Internships & Collaborations<br><br>
         
         <strong>📫 Reach me at:</strong> <a href="mailto:aazhan98@gmail.com">aazhan98@gmail.com</a>
       </td>
-      <td width="40%">
+      <td width="45%">
         <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide=issues&count_private=true&include_all_commits=true" width="100%"/>
         <br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azhan-07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
@@ -63,20 +56,23 @@
   </table>
 </div>
 
-<!-- Activity Stats -->
+<br>
+
+### 📊 Activity Stats
+
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <h3>📊 140</h3>
+      <td align="center" width="33%">
+        <h2>📊 140</h2>
         <p>Total Contributions<br><small>Mar 26, 2025 - Present</small></p>
       </td>
-      <td align="center">
-        <h3>⚡ 2</h3>
+      <td align="center" width="33%">
+        <h2>⚡ 2</h2>
         <p>Current Streak<br><small>Jul 17 - Jul 18</small></p>
       </td>
-      <td align="center">
-        <h3>🔥 9</h3>
+      <td align="center" width="33%">
+        <h2>🔥 9</h2>
         <p>Longest Streak<br><small>Apr 15, 2025 - Apr 23, 2025</small></p>
       </td>
     </tr>
@@ -85,39 +81,46 @@
 
 ---
 
-<!-- Tech Stack -->
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-</div>
+### 🛠️ Tech Stack
 
 <div align="center">
   
-  ### 💻 Languages
+  **Languages**
+  
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,mysql" />
   
-  ### 🎨 Frontend
+  <br><br>
+  
+  **Frontend**
+  
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
   
-  ### ⚙️ Backend & Databases
+  <br><br>
+  
+  **Backend & Databases**
+  
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
   
-  ### 🤖 AI & Computer Vision
+  <br><br>
+  
+  **AI & Computer Vision**
+  
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Local_LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" />
   
-  ### 🚀 Deployment & Tools
+  <br><br>
+  
+  **Deployment & Tools**
+  
   <img src="https://skillicons.dev/icons?i=render,netlify,vercel,git,github,vscode,figma" />
   
 </div>
 
 ---
 
-<!-- Featured Projects -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
+### 🚀 Featured Projects
 
 <div align="center">
   <table>
@@ -147,10 +150,7 @@
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-</div>
+### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azhan-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
@@ -171,10 +171,7 @@
 
 ---
 
-<!-- Currently Exploring -->
-<div align="center">
-  <h2>🌱 Currently Exploring</h2>
-</div>
+### 🌱 Currently Exploring
 
 <div align="center">
   <img src="https://img.shields.io/badge/Local_LLMs_&_Ollama-412991?style=for-the-badge&logo=ollama&logoColor=white" />
@@ -186,10 +183,7 @@
 
 ---
 
-<!-- Connect -->
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-</div>
+### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/azhan-abdullah-382296366">
@@ -203,13 +197,12 @@
   </a>
 </div>
 
-<!-- Quote -->
+<br>
+
 <div align="center">
-  <br>
   <h3>💬 "First, solve the problem. Then, write the code." — John Johnson</h3>
 </div>
 
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
